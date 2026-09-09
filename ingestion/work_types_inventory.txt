@@ -1,0 +1,116 @@
+Total Works: 214194
+Parsed: 201582 (94.11%)
+Uncategorized: 12612 (5.89%)
+
+Rank | Count | Pct | Work Type
+--------------------------------------------------------------------------------
+   1 |   53803 | 25.12% | Construction of roads, link roads, pathways or any other road with or without drainage system
+   2 |   29110 | 13.59% | Lighting of public spaces
+   3 |   20597 |  9.62% | Street lights
+   4 |   19130 |  8.93% | Construction of community centers and community halls
+   5 |   12612 |  5.89% | Uncategorized
+   6 |    6940 |  3.24% | Installing tube-wells and borewells
+   7 |    5417 |  2.53% | Construction of rooms and halls in school and colleges
+   8 |    4961 |  2.32% | Purchase of mobile water tankers
+   9 |    4640 |  2.17% | Installing community drinking water plants
+  10 |    4588 |  2.14% | Construction of buildings for community cultural activities
+  11 |    4208 |  1.96% | Construction of boundary walls of existing public and community buildings
+  12 |    3661 |  1.71% | Installing hand pumps
+  13 |    3586 |  1.67% | Construction of bus-sheds or bus-stops
+  14 |    2899 |  1.35% | Providing drains and gutters for public drainage
+  15 |    2396 |  1.12% | Construction of footpaths and pedestrian ways
+  16 |    2176 |  1.02% | Improvement of electricity distribution infrastructure
+  17 |    2039 |  0.95% | Construction of culverts and bridges
+  18 |    1898 |  0.89% | Construction of additional rooms and halls in the existing public and community building
+  19 |    1657 |  0.77% | Purchase of smart boards, visual display units and projectors
+  20 |    1640 |  0.77% | Development of public parks
+  21 |    1408 |  0.66% | Construction of public libraries and reading rooms
+  22 |    1404 |  0.66% | Purchase of furniture and fixtures for educational purposes
+  23 |    1403 |  0.66% | Purchase of IT systems, including hardware and software for educational purposes
+  24 |    1288 |  0.60% | Installation of multi-gym equipment
+  25 |    1185 |  0.55% | Fitting of Sitting RCC Benches in Public Places
+  26 |    1147 |  0.54% | Installation of fixed garden gym equipment
+  27 |     978 |  0.46% | Construction of public irrigation facilities
+  28 |     972 |  0.45% | Construction of public toilets and bathrooms
+  29 |     964 |  0.45% | Setting up of laboratories
+  30 |     951 |  0.44% | Construction of water tanks
+  31 |     918 |  0.43% | Providing supply pipelines for drinking water
+  32 |     914 |  0.43% | Purchase of non-conventional energy system and devices for community use
+  33 |     889 |  0.42% | Renovation of ponds and lakes
+  34 |     849 |  0.40% | Providing CCTV camera system for security of public areas
+  35 |     819 |  0.38% | Purchase of prosthetics, wheel chairs, tricycles (manual or motorized), elect scooties, hearing aids
+  36 |     771 |  0.36% | Development of playground
+  37 |     763 |  0.36% | Development of playfields and sports grounds
+  38 |     580 |  0.27% | Construction of toilet blocks
+  39 |     505 |  0.24% | Purchase of hospital equipment
+  40 |     454 |  0.21% | Construction of buildings for crèches and anganwadies
+  41 |     436 |  0.20% | Construction of Government office buildings (Post office, Police station, Police chauki, etc.)
+  42 |     421 |  0.20% | Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers
+  43 |     413 |  0.19% | Construction of rainwater harvesting structures
+  44 |     351 |  0.16% | Purchase Books for Library
+  45 |     342 |  0.16% | Purchase of sports equipment
+  46 |     332 |  0.15% | Setting up of farmers’ training and assistance centers
+  47 |     326 |  0.15% | Purchase of ambulances (Four, three and two wheelers)
+  48 |     320 |  0.15% | Purchase of vans and buses for educational institutions
+  49 |     285 |  0.13% | Setting up public non-conventional energy plants
+  50 |     235 |  0.11% | Construction of shelters for animals
+  51 |     208 |  0.10% | Providing sports equipment, except consumable items
+  52 |     203 |  0.09% | Purchase of mobile sanitation equipment
+  53 |     187 |  0.09% | Construction of stadiums
+  54 |     179 |  0.08% | Providing garbage collection and disposal systems
+  55 |     179 |  0.08% | Construction of buildings for sports facilities
+  56 |     173 |  0.08% | Setting up of kitchen and pantries
+  57 |     152 |  0.07% | Construction of buildings for multi-gym
+  58 |     149 |  0.07% | Purchase of equipment for crèches and anganwadies
+  59 |     136 |  0.06% | Construction of road under bridge
+  60 |     136 |  0.06% | Creation of new ponds
+  61 |     130 |  0.06% | Construction of night shelters for homeless
+  62 |     124 |  0.06% | Construction of platforms and passenger sheds at railway stations
+  63 |     117 |  0.05% | Purchase of training equipment
+  64 |     116 |  0.05% | Establishing public ground water recharging facilities
+  65 |     107 |  0.05% | Construction of cycle tracks, cycle stand and segregated non-motorized vehicle (NMV) lanes
+  66 |     100 |  0.05% | Purchase of immovable sports equipment
+  67 |      97 |  0.05% | Construction of artificial reef
+  68 |      92 |  0.04% | Purchase of vehicle for mobile dispensaries (Four, three and two wheelers)
+  69 |      92 |  0.04% | Purchase of hearse van (Four, three and two wheelers)
+  70 |      89 |  0.04% | Construction of foot over bridge (FOB)
+  71 |      77 |  0.04% | Retrofitting in essential lifeline buildings
+  72 |      69 |  0.03% | Establishing public lift irrigation projects
+  73 |      67 |  0.03% | Tree plantation for community
+  74 |      65 |  0.03% | Retrofitting, preservation or conservation of heritage and archaeological monuments and buildings
+  75 |      60 |  0.03% | Installation of firmly fixed waiting chairs and benches at railway stations
+  76 |      60 |  0.03% | Construction of buildings for training institutions
+  77 |      51 |  0.02% | Construction of New Building
+  78 |      47 |  0.02% | Purchase of motor boats for flood and cyclone prone areas
+  79 |      42 |  0.02% | Purchase of sanitary pad vending machine and incinerators
+  80 |      30 |  0.01% | Patrolling Vehicles to government institution for Public Conveniences, Safety and Security
+  81 |      29 |  0.01% | Setting up processing plants, cold storages,etc for fish and fisheries products for community use
+  82 |      29 |  0.01% | Forest conservation infrastructure
+  83 |      26 |  0.01% | Setting up crops conservation facilities
+  84 |      23 |  0.01% | Construction of veterinary hospitals and dispensaries
+  85 |      20 |  0.01% | Setting up of community effluent treatment plants
+  86 |      20 |  0.01% | Purchase of ambulance to transport sick and injured animals
+  87 |      15 |  0.01% | Laying of synthetic turfs for hockey and football
+  88 |      13 |  0.01% | Construction of building for artificial insemination and breeding centers
+  89 |      11 |  0.01% | Construction of building for veterinary aid centers
+  90 |      11 |  0.01% | Purchase of vehicles for mobile libraries
+  91 |      10 |  0.00% | Providing night soil collection and disposal systems
+  92 |       9 |  0.00% | Setting up of soil testing laboratories
+  93 |       8 |  0.00% | Setting up of electric vehicle charging stations
+  94 |       7 |  0.00% | Construction of passage at unmanned railway crossings
+  95 |       6 |  0.00% | Provision of escalator and travellators for public use
+  96 |       4 |  0.00% | Purchase of fire tenders for Government run institutions
+  97 |       4 |  0.00% | Installation of fixed weighing scale machine for agriculture and horticulture produce
+  98 |       3 |  0.00% | Construction of buildings and providing fixed assets for semen banks
+  99 |       3 |  0.00% | Setting up mobile labs and clinics for animals including sex sorted semen technology
+ 100 |       3 |  0.00% | Facilitation Centre
+ 101 |       3 |  0.00% | Purchase of stubble clearing and super seeder machines for community use
+ 102 |       3 |  0.00% | Setting up of a community radio station center
+ 103 |       3 |  0.00% | Setting up of Early Warning Systems for effective disaster mitigation
+ 104 |       3 |  0.00% | Construction of threshing floor for farm produce
+ 105 |       3 |  0.00% | Construction of Railway Halt Station
+ 106 |       3 |  0.00% | Installation of Traffic Signal
+ 107 |       2 |  0.00% | Hiring of Vehicles
+ 108 |       2 |  0.00% | Purchase of biodigesters for community use
+ 109 |       2 |  0.00% | Installation of fixed Wi-Fi System at selected locations
+ 110 |       1 |  0.00% | Monitoring of the Implementation of MPLADS

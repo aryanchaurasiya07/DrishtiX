@@ -1,0 +1,14 @@
+.env
+.env*
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+.DS_Store
+*.log
+
+# Precomputed embeddings cache (regenerated automatically)
+*.npy
+ml/models/*.npy
