@@ -7,7 +7,7 @@ Returns KPI metrics, category breakdown, and 6-month trend, all scoped.
 
 from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, Query, status
-from sqlalchemy import func, extract, case, Integer
+from sqlalchemy import func, extract, case, Integer, String
 from sqlalchemy.orm import Session
 
 from backend.auth import CurrentUser, get_current_user

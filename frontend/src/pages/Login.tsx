@@ -22,13 +22,7 @@ export const Login: React.FC = () => {
       setAuthSession(res.data);
       navigate(`/${res.data.role}`);
     } catch (err: any) {
-      if (!err.response) {
-        setError('Network error: Cannot reach the server. Is it running?');
-      } else if (err.response.status >= 500) {
-        setError(`Server error (${err.response.status}): The database might be offline or unreachable.`);
-      } else {
-        setError(err.response.data?.detail || 'Invalid login credentials. Please try again.');
-      }
+      setError(err.response?.data?.detail || 'Invalid login credentials. Please try again.');
     } finally {
       setLoading(false);
     }
