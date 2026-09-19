@@ -39,13 +39,18 @@ app = FastAPI(
 
 # ---------------------------------------------------------------------------
 # CORS — locked to FRONTEND_ORIGIN, NOT '*' (PRD Section 13)
+# Supports comma-separated origins for multiple Vercel URLs (production + preview)
 # ---------------------------------------------------------------------------
 
-FRONTEND_ORIGIN = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
+_frontend_raw = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
+ALLOWED_ORIGINS = [o.strip() for o in _frontend_raw.split(",") if o.strip()]
+# Always include localhost for local dev
+if "http://localhost:5173" not in ALLOWED_ORIGINS:
+    ALLOWED_ORIGINS.append("http://localhost:5173")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[FRONTEND_ORIGIN],
+    allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
