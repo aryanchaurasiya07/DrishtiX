@@ -31,7 +31,7 @@ export const Navbar: React.FC = () => {
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <span className="font-bold text-base tracking-tight text-white">ArthDrishti AI</span>
+              <span className="font-bold text-base tracking-tight text-white">DrishtiX</span>
               <span className="px-2 py-0.5 rounded text-[10px] font-extrabold uppercase bg-blue-500/20 text-blue-400 border border-blue-500/30">
                 {role || 'Public'}
               </span>

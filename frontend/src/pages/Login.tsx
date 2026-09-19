@@ -51,7 +51,7 @@ export const Login: React.FC = () => {
           </div>
         </div>
         <h2 className="mt-5 text-center text-2xl font-black tracking-tight text-slate-900">
-          ArthDrishti AI
+          DrishtiX
         </h2>
         <p className="mt-1.5 text-center text-xs text-slate-500 font-medium">
           AI-Powered MPLADS Fraud & Anomaly Detection • SIH 26102

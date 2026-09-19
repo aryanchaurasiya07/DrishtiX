@@ -1,4 +1,4 @@
-﻿import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { Navbar } from '../components/Navbar';
 import {
   AlertTriangle,
@@ -101,14 +101,14 @@ export const MethodologyPage: React.FC = () => {
             </h1>
           </div>
           <p className="text-sm text-slate-500">
-            How ArthDrishti AI works, what it can find, and crucially what it cannot.
+            How DrishtiX works, what it can find, and crucially what it cannot.
           </p>
         </div>
 
         {/* Opening statement */}
         <div className="p-6 bg-blue-600 rounded-2xl text-white">
           <p className="text-lg font-bold leading-relaxed">
-            "ArthDrishti AI ranks works so a human auditor knows where to look first.
+            "DrishtiX ranks works so a human auditor knows where to look first.
             It does not decide who is guilty."
           </p>
           <p className="text-sm text-blue-200 mt-2">
@@ -123,7 +123,7 @@ export const MethodologyPage: React.FC = () => {
             <p>
               MPLADS allows each Member of Parliament to recommend up to Rs 5 crore/year of local
               development works. With lakhs of works and thousands of implementing agencies, manual
-              oversight of every project is impossible. ArthDrishti AI applies four unsupervised
+              oversight of every project is impossible. DrishtiX applies four unsupervised
               detectors to the full dataset and produces a 0-100 composite risk score for every work.
             </p>
             <p>
@@ -300,7 +300,7 @@ export const MethodologyPage: React.FC = () => {
             An MP <strong>recommends</strong> a work. The Implementing District Authority{' '}
             <strong>executes</strong> it and manages payments. Delay, vendor behaviour, and
             payment patterns reflect the implementing agency's conduct, not necessarily the
-            recommending MP's. ArthDrishti AI displays both the MP and the implementing agency
+            recommending MP's. DrishtiX displays both the MP and the implementing agency
             on every flagged work card.
           </p>
           <p className="text-xs text-slate-500 mt-2">
@@ -311,7 +311,7 @@ export const MethodologyPage: React.FC = () => {
 
         {/* Footer */}
         <div className="text-center text-xs text-slate-400 pb-4">
-          SIH 26102 · ArthDrishti AI · Team Dead Neurons · MoSPI MPLADS Anomaly Detection
+          SIH 26102 · DrishtiX · Team Dead Neurons · MoSPI MPLADS Anomaly Detection
         </div>
 
       </main>

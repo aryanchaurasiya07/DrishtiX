@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Navbar } from '../components/Navbar';
 import { 
   Database,
@@ -90,7 +90,7 @@ export const CoverageDashboard: React.FC = () => {
           <div className="text-xs text-amber-950">
             <p className="font-bold text-sm mb-1">A grey "Not Measurable" badge ≠ a clean work</p>
             <p>
-              When a work is labelled <strong>Not Measurable</strong>, it means ArthDrishti AI lacked
+              When a work is labelled <strong>Not Measurable</strong>, it means DrishtiX lacked
               sufficient data to score it — not that the work is risk-free.
             </p>
           </div>
